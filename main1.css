@@ -1,0 +1,34 @@
+.main {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-container {
+  display: block;
+  width: 400px;
+  max-width: 400px;
+}
+
+.decryption-label {
+  text-align: left;
+}
+
+.upload-form {
+  text-align: center;
+}
+
+.field.is-grouped {
+  justify-content: center;
+}
+
+.button {
+  width: 100px;
+  margin: 0 10px;
+}
+
+.file-label {
+  margin: 10px auto;
+}
